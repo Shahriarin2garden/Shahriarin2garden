@@ -1,5 +1,33 @@
 # 💫 About Me:
-## Hi there 👋, I'm Shahriarin2garden!<br><br>🔭 I'm currently working on:  <br>- [url-shortener-lab02-feature-nginx-layer](https://github.com/Shahriarin2garden/url-shortener-lab02-feature-nginx-layer)  <br>- [CLI-Note-Manager](https://github.com/Shahriarin2garden/CLI-Note-Manager)  <br>- Exploring new ways to optimize backend infrastructure and web applications.<br><br>👯 I'm looking to collaborate on:  <br>- Open-source web applications  <br>- Backend projects involving Python, Node.js, or microservices  <br>- Projects that use Docker and Nginx  <br><br>🤝 I'm looking for help with:  <br>- Advanced DevOps (CI/CD, container orchestration)  <br>- Optimizing large-scale applications for performance  <br>- Machine learning integrations in web apps<br><br>🌱 I'm currently learning:  <br>- Cloud computing (AWS, Azure)  <br>- Advanced data structures and algorithms  <br>- Security best practices for web applications<br><br>💬 Ask me about:  <br>- Web development (Python, Node.js, JavaScript)  <br>- Nginx and server configuration  <br>- Building scalable REST APIs<br><br>⚡ Fun fact:  <br>I love exploring new open-source tools and automating boring tasks. Also, I never say no to a cup of good coffee ☕️.<br><br>---<br><br>_You can connect with me by opening an issue on any of my repositories or dropping a comment!
+## Hello! I'm Shahriarin2garden 👋
+
+**Backend Developer & Infrastructure Engineer**
+
+🔭 **Currently working on:**
+- URL shortening service with Nginx layer optimization
+- Backend infrastructure optimization and scalable web applications
+- Mental health prediction system development
+
+👯 **Open to collaborate on:**
+- Open-source web applications
+- Backend projects (Python, Node.js, microservices)
+- Infrastructure projects with Docker and Nginx
+
+🌱 **Currently learning:**
+- Cloud computing (AWS, Azure)
+- Advanced DevOps and CI/CD
+- Application security and performance optimization
+
+💬 **Ask me about:**
+- Web development (Python, Node.js, JavaScript)
+- Server configuration and Nginx
+- Building scalable REST APIs
+
+⚡ **Fun fact:** I automate everything I can and fuel my coding with good coffee ☕
+
+---
+
+_Connect with me through any of my repositories or discussions!_
 
 
 ## 🌐 Socials:
