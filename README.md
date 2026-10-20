@@ -2,13 +2,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:3E2723,55:6F4E37,100:C68B59&text=Shahriarin2garden&fontColor=F5EBE0&fontSize=52&fontAlignY=38&desc=Backend%20Developer%20%26%20Infrastructure%20Engineer&descColor=F5EBE0&descSize=20&descAlignY=60&animation=fadeIn" alt="header" width="100%"/>
-
-<a href="https://github.com/Shahriarin2garden">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C68B59&center=true&vCenter=true&width=640&height=40&lines=Hello!+I'm+Shahriarin2garden+%F0%9F%91%8B;Backend+Developer+%26+Infrastructure+Engineer;I+automate+everything+I+can;Fueled+by+good+coffee+%E2%98%95" alt="typing" />
-</a>
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&vCenter=true&width=900&weight=700&size=38&color=F5EBE0&background=3E2723&height=110&duration=2500&pause=1000&repeat=false&lines=Shahriarin2garden" alt="Shahriarin2garden" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&vCenter=true&width=900&weight=500&size=20&color=D7A86E&background=4E342E&height=50&duration=2500&pause=1000&repeat=false&lines=Backend+Developer+%26+Infrastructure+Engineer" alt="Backend Developer and Infrastructure Engineer" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&vCenter=true&width=900&weight=400&size=18&color=F5EBE0&background=6F4E37&height=50&duration=3000&pause=1500&lines=Hello!+I+am+Shahriarin2garden;I+automate+everything+I+can;Fueled+by+good+coffee" alt="Hello! I am Shahriarin2garden" width="100%"/>
 
 <a href="https://facebook.com/shahriar.hossain.211806"><img src="https://img.shields.io/badge/Facebook-4E342E?style=for-the-badge&logo=facebook&logoColor=D7A86E" alt="Facebook"/></a>
 <a href="https://linkedin.com/in/shahriar-hossain499"><img src="https://img.shields.io/badge/LinkedIn-6F4E37?style=for-the-badge&logo=linkedin&logoColor=F5EBE0" alt="LinkedIn"/></a>
@@ -355,7 +351,7 @@
 
 <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Shahriarin2garden&icon=0&color=0" alt="Visitor count"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:C68B59,55:6F4E37,100:3E2723" alt="footer" width="100%"/>
+<img src="https://img.shields.io/badge/Fueled%20by-Good%20Coffee-C68B59?style=for-the-badge&logo=buymeacoffee&logoColor=D7A86E&labelColor=3E2723" alt="Fueled by good coffee"/>
 
 </div>
 
