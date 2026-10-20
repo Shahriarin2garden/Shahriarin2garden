@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&vCenter=true&width=900&weight=700&size=38&color=F5EBE0&background=3E2723&height=110&duration=2500&pause=1000&repeat=false&lines=Shahriarin2garden" alt="Shahriarin2garden" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&vCenter=true&width=900&weight=700&size=38&color=F5EBE0&background=3E2723&height=110&duration=2500&pause=1000&repeat=false&lines=Shahriarin2garden" alt="Shahriar Hossain" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&vCenter=true&width=900&weight=500&size=20&color=D7A86E&background=4E342E&height=50&duration=2500&pause=1000&repeat=false&lines=Backend+Developer+%26+Infrastructure+Engineer" alt="Backend Developer and Infrastructure Engineer" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&vCenter=true&width=900&weight=400&size=18&color=F5EBE0&background=6F4E37&height=50&duration=3000&pause=1500&lines=Hello!+I+am+Shahriarin2garden;I+automate+everything+I+can;Fueled+by+good+coffee" alt="Hello! I am Shahriarin2garden" width="100%"/>
 
